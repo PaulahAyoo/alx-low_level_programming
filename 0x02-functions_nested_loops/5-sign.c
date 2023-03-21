@@ -27,4 +27,3 @@ int print_sign(int n)
                 _putchar(45 + 0);
                 return (-1);
         }
-}
